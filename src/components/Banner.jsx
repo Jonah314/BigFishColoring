@@ -1,6 +1,6 @@
 import React from 'react';
-import Background from '../assets/images/StickerBackground.png';
-
+import Background from '../../public/images/StickerBackground.png'
+;
 
 function Banner(){
     

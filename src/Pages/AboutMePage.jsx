@@ -1,5 +1,5 @@
 import React from 'react';
-import ProfilePic from '../assets/images/Tired Gorilla.png';
+import ProfilePic from '../../public/images/Tired Gorilla.png';
 import  Banner  from '../components/Banner';
 
 

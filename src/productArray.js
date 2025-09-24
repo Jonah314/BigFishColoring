@@ -1,15 +1,15 @@
-import PunkRockUnicornImg from './assets/images/PunkRockUnicorn.png';
-import TiredGorillaImg from './assets/images/Tired Gorilla.png';
-import DrummerBabyImg from './assets/images/drummer baby.png';
-import PizzaAngelImg from './assets/images/pizza angel.png';
-import StingRayAlienImg from './assets/images/StingRay Alien.png';
-import PizzaCannibalImg from './assets/images/Pizza Cannibal.png';
-import BurgerBoxerImg from './assets/images/BurgerBoxer.png';
-import TacoEatingSunflowerImg from './assets/images/TacoEatingSunflower.png';
-import GassyBabyImg from './assets/images/GassyBaby.png';
-import SunBathingIceCreamImg from  './assets/images/SunBathingIceCream.png';
-import SpaceManCamelRiderImg from './assets/images/SpaceManCamelRider.png';
-import AstrounautImg from './assets/images/Astrounaut.png';
+import PunkRockUnicornImg from '../public/images/PunkRockUnicorn.png';
+import TiredGorillaImg from '../public/images/Tired Gorilla.png';
+import DrummerBabyImg from '../public/images/drummer baby.png';
+import PizzaAngelImg from '../public/images/pizza angel.png';
+import StingRayAlienImg from '../public/images/StingRay Alien.png';
+import PizzaCannibalImg from '../public/images/Pizza Cannibal.png';
+import BurgerBoxerImg from '../public/images/BurgerBoxer.png';
+import TacoEatingSunflowerImg from '../public/images/TacoEatingSunflower.png';
+import GassyBabyImg from '../public/images/GassyBaby.png';
+import SunBathingIceCreamImg from  '../public/images/SunBathingIceCream.png';
+import SpaceManCamelRiderImg from '../public/images/SpaceManCamelRider.png';
+import AstrounautImg from '../public/images/Astrounaut.png';
 
 export const ProductArray = {
     PunkRockUnicorn: {

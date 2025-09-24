@@ -1,9 +1,18 @@
 import React from 'react';
+import ShoppingBox from '../components/ShoppingCartPagecomponents/ShoppingBox';
 
 function ShoppingCart(){
+    
+    
     return (
-        <>
-            <h1>This is the Shopping cart Page!!</h1>
+        <>  
+            <div>
+                
+                <ShoppingBox />
+
+
+
+            </div>
         </>
     );
 }
